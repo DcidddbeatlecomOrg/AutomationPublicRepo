@@ -1,6 +1,3 @@
 # AutomationPublicRepo
 a
 
-asdasdasd
-
-asdasdas
